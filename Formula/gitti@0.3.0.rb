@@ -1,5 +1,5 @@
-class Gitti < Formula
-  desc "A lightweight terminal UI for git operations"
+class GittiAT030 < Formula
+  desc "A lightweight terminal UI for git operations (v0.3.0)"
   homepage "https://github.com/gohyuhan/gitti"
   license "MIT"
 
